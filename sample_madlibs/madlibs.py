@@ -1,4 +1,5 @@
-# youtuber = 'john'
+
+# person = 'john'
 
 # print("Hello, " + youtuber + ", welcome to my channel!")
 # print("subscribe to {}".format(youtuber))
