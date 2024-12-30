@@ -19,3 +19,6 @@ message.lower()# to convert to lowercase
 message.title()# to capitalize the first letter of every word
 message.find('p') # returns the index of the first occurrence of p (or -1 if not found)
 message.replace('p', 'q')
+
+# To check if a string contains a character (or a sequence of characters), we use the inoperator:
+contains = 'Python' in course
